@@ -1,0 +1,11 @@
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\bin\Debug\Xtalkiz.exe.config
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\bin\Debug\Xtalkiz.exe
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\bin\Debug\Xtalkiz.pdb
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\obj\Debug\Xtalkiz.csprojAssemblyReference.cache
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\obj\Debug\Xtalkiz.Form1.resources
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\obj\Debug\Xtalkiz.Form2.resources
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\obj\Debug\Xtalkiz.Properties.Resources.resources
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\obj\Debug\Xtalkiz.csproj.GenerateResource.cache
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\obj\Debug\Xtalkiz.csproj.CoreCompileInputs.cache
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\obj\Debug\Xtalkiz.exe
+C:\Users\Azad\OneDrive - UNSW\own files\Projects @UNSW\Inter-Species pathway cross-talks\Xtalkiz\Xtalkiz\obj\Debug\Xtalkiz.pdb
