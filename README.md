@@ -31,3 +31,4 @@ XTalkiiS is freely available for download from https://sourceforge.net/projects/
 ![](img/xtalkiis3.png)
 
 ## Application
+[High-quality Inter-species cross-talk identfication from dual RNA-seq transcriptomic data using XTalkiiS tool](https://github.com/Akmazad/XTalkiiS-application/blob/main/README.md)
