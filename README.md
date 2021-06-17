@@ -19,6 +19,12 @@ XTalkiiS is freely available for download from https://sourceforge.net/projects/
 	journal = {bioRxiv}
 }
 ```
+## Features
+- Pathway cross-talk
+- inter-species cross-talk
+- intra-species cross-talk
+- KEGG pathway gene
+
 ## Demo
 ![](img/xtalkiis1.png)
 ![](img/xtalkiis2.png)
